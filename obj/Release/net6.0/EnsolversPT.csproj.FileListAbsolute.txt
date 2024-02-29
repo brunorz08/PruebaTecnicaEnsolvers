@@ -1,0 +1,132 @@
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\appsettings.Development.json
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\appsettings.json
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\EnsolversPT.exe
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\EnsolversPT.deps.json
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\EnsolversPT.runtimeconfig.json
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\EnsolversPT.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\EnsolversPT.pdb
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Humanizer.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pcser\Desktop\EnsolversPT\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.csproj.AssemblyReference.cache
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.AssemblyInfoInputs.cache
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.AssemblyInfo.cs
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.csproj.CoreCompileInputs.cache
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\staticwebassets\msbuild.EnsolversPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\staticwebassets\msbuild.build.EnsolversPT.props
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnsolversPT.props
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.EnsolversPT.props
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\scopedcss\bundle\EnsolversPT.styles.css
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.csproj.CopyComplete
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.dll
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\refint\EnsolversPT.dll
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.pdb
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\EnsolversPT.genruntimeconfig.cache
+C:\Users\pcser\Desktop\EnsolversPT\obj\Release\net6.0\ref\EnsolversPT.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\appsettings.Development.json
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\appsettings.json
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\EnsolversPT.exe
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Humanizer.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.csproj.AssemblyReference.cache
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.AssemblyInfoInputs.cache
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.AssemblyInfo.cs
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.csproj.CoreCompileInputs.cache
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\staticwebassets\msbuild.EnsolversPT.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\staticwebassets\msbuild.build.EnsolversPT.props
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.EnsolversPT.props
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.EnsolversPT.props
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\scopedcss\bundle\EnsolversPT.styles.css
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.csproj.CopyComplete
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\refint\EnsolversPT.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.pdb
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\EnsolversPT.deps.json
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\EnsolversPT.runtimeconfig.json
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\EnsolversPT.dll
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\bin\Release\net6.0\EnsolversPT.pdb
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\EnsolversPT.genruntimeconfig.cache
+C:\Users\pcser\Desktop\Ensolvers Bruno Raffo\BackEnd\obj\Release\net6.0\ref\EnsolversPT.dll
